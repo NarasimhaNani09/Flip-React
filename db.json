@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "roll": "1234567890",
+      "name": "Bhupathi",
+      "id": 1
+    },
+    {
+      "roll": "0987654321",
+      "name": "Tester",
+      "id": 2
+    },
+    {
+      "roll": "654783920",
+      "name": "Nani",
+      "id": 3
+    },
+    {
+      "roll": "4",
+      "name": "qwertyuio",
+      "id": 4
+    },
+    {
+      "roll": "09876543256789",
+      "name": "qwertyuio",
+      "id": 5
+    }
+  ]
+}

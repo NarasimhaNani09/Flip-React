@@ -1,0 +1,71 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(231, 231, 226) !important;
+}
+
+
+/* Header Components */
+.header{
+  background: #fff;
+}
+.logo img{
+ float: right;
+ width: 100%;
+ margin: 20px 0;
+}
+
+.search button{
+  width: 50px;
+  background: aliceblue;
+  height: 35px;
+  margin: 0px 0;
+  position: relative;
+  left: 55px;
+  top: -2px;
+}
+.search input{
+  width: 90%;
+  background-color: aliceblue;
+  border: 0;
+  height: 40px;
+  margin: 15px 0;
+  padding-left: 60px;
+}
+
+@media screen and (max-width: 480px) {
+  .search button{
+    display: none;
+  }
+  .search input{
+    padding-left: 10px;
+    width: 100%;
+  }
+}
+
+
+.store,.user,.cart,.dots{
+  line-height: 65px;
+  display: inline;
+  margin: 0 7% 0 0;
+}
+.store,.user,.cart span{
+  padding: 0 5px;
+}
+
+/* Header Components  Ends*/
+
+
+/* Menu Components */
+.menu{
+  margin: 10px 0 !important;
+  background: #fff;
+  padding: 20px 0 10px 0;
+  font-weight: 500 !important;
+}
+
+.menu img{
+  width: 65%;
+  margin-bottom: 5px;
+}
+/* Menu Components  Ends*/

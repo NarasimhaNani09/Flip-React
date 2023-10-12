@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "One Plus 9",
+      "brand": "1⃣ ➕ ",
+      "price": "50000",
+      "description": "Testing",
+      "thumbnail": "https://m.media-amazon.com/images/I/614cCf6bzyL._AC_UF894,1000_QL80_.jpg",
+      "id": 1
+    },
+    {
+      "productId": "2",
+      "title": "Iphone 15",
+      "brand": "Apple",
+      "price": "150000",
+      "description": "Testing",
+      "thumbnail": "https://media.croma.com/image/upload/v1694674295/Croma%20Assets/Communication/Mobiles/Images/300823_0_m39ki5.png",
+      "id": 2
+    },
+    {
+      "productId": "3",
+      "title": "iqoo 7 Legend",
+      "brand": "Iqoo",
+      "price": "30000",
+      "description": "Test",
+      "thumbnail": "https://exstatic-in.iqoo.com/Oz84QB3Wo0uns8j1/1629179908801/14df0bb9f86652623b293ff69a20b95d.png",
+      "id": 3
+    },
+    {
+      "productId": "4",
+      "title": "Oppo-Reno-7-Pro-5G",
+      "brand": "Oppo",
+      "price": "40000",
+      "description": "Tester",
+      "thumbnail": "https://img-prd-pim.poorvika.com/product/Oppo-Reno-7-Pro-5G-Starlight-Black-03.png",
+      "id": 4
+    }
+  ]
+}
