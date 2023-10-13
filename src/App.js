@@ -26,7 +26,7 @@ function App() {
         <Route path='/Form' element={<Form/>} />
         <Route path='*' element={<Error/> } />
       </Routes>
-      <div>Sri Vasavi College</div>
+      <div>Sri Vasavi Engineering College</div>
     </div>
     </BrowserRouter>
     </>
